@@ -116,5 +116,34 @@ graph TD
     Admin -->|Views Booking Reports| System
     Admin -->|Updates Booking Info| System
 ```
+## Acceptance Criteria
+
+**Acceptance Criteria** are predefined conditions that a software product must meet to be accepted by a user, customer, or other stakeholders. They are written from the perspective of the end-user and define the boundaries and expected behavior of a feature. Acceptance criteria are a key part of requirement analysis as they ensure that all stakeholders have a shared understanding of how a feature should work.
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+- **Clarifies Requirements**: Translates high-level requirements into detailed, testable conditions.
+- **Improves Communication**: Aligns expectations between stakeholders, developers, and QA teams.
+- **Ensures Quality**: Provides a basis for writing test cases and conducting user acceptance testing.
+- **Supports Agile Development**: Works well with user stories to define “done” for a feature.
+
+### Example: Acceptance Criteria for the Checkout Feature
+
+**Feature**: *Checkout in Booking Management System*
+
+**User Story**:  
+*As a user, I want to securely complete my booking using a checkout page so that I can confirm my reservation and receive a receipt.*
+
+**Acceptance Criteria**:
+- The user must be able to review the booking details (date, time, price, services) before proceeding.
+- The checkout page must allow secure input of payment details (credit/debit card, mobile money).
+- The system must validate payment information before processing.
+- Upon successful payment, the system should display a confirmation message and send a confirmation email to the user.
+- If the payment fails, the system must display an appropriate error message and allow the user to retry.
+- The user must be redirected to a confirmation page after a successful transaction.
+
+---
+
+Clearly defined acceptance criteria help ensure that each feature delivers value to the user and meets the expected quality standards before it is marked as complete.
 
 

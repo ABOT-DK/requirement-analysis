@@ -2,7 +2,7 @@
 This repository serves as a **comprehensive resource** for understanding, documenting, and managing software requirements throughout the development lifecycle. It includes:  
 ## What is Requirement Analysis?
 
-**Requirement Analysis** is a foundational phase in the Software Development Life Cycle (SDLC) that focuses on identifying, gathering, and analyzing the needs and expectations of stakeholders for a new or modified software system. This process ensures that all stakeholders have a clear, shared understanding of what the software should achieve before the design and development stages begin.
+**Requirement Analysis** forms a foundational phase in the Software Development Life Cycle (SDLC) that focuses on identifying, gathering, and analyzing the needs and expectations of stakeholders for a new or modified software system. This process ensures that all stakeholders have a clear, shared understanding of what the software should achieve before the design and development stages begin.
 
 ### Purpose of Requirement Analysis
 
